@@ -11,3 +11,10 @@ a:hover{
     color: red;
 }
 
+.title {
+    font-weight: bold;
+}
+
+.description {
+    font-size: 16pt;
+}
